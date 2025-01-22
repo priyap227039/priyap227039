@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a **2nd-year BTech student specializing in IT*
 ### 🌟 About Me
 - 👩‍💻 **Intern Experience**: GSSoC Extended
 - 🎓 Exploring **IT specialization** and its diverse opportunities
-  
 
 ---
 
@@ -33,14 +32,13 @@ Here are some of the projects I've worked on:
 
 ---
 
-### 💬 Let's Connect
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/priyap227039)
-- 🌍 [Portfolio](#) (Coming Soon!)
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyap227039)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/priyap227039)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-### 💖 Fun Fact
-I love listening to bhajans and sharing positive vibes through technology!
-
-Feel free to explore my repositories and collaborate with me on projects! 😊
+### 💬 Let's Chat
+- 💼 Check out my [LinkedIn Profile](https://www.linkedin.com/in/priyap227039) for professional updates.
+- 📧 Feel free to email me for collaborations or questions!
