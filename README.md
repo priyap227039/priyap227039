@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **2nd-year BTech student specializing in IT*
 ### 🌟 About Me
 - 👩‍💻 **Intern Experience**: GSSoC Extended
 - 🎓 Exploring **IT specialization** and its diverse opportunities
-- 📽️ [YouTube Journey](#): Starting a channel to share my mom's beautiful bhajans ✨
+  
 
 ---
 
